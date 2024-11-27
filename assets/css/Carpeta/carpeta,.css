@@ -1,0 +1,47 @@
+.contenedor{
+    text-align: center;
+}
+
+.delivery-titulo{
+    color: #DA2B1F;
+    font-family: Pacifico, cursive;
+    font-weight: 400;
+}
+h1{
+    color: #DA2B1F;
+    font-family: Pacifico, cursive;
+    font-weight: 400;
+}
+
+.delivery-descripcion{
+    color:#a7a9be;
+    font-weight: 100;
+}
+
+@media screen and (min-width: 0){
+    .contenedor{
+        padding: 2.5rem 1rem;
+    }
+
+    .delivery-titulo{
+        font-size: 2rem;
+    }
+
+    .delivery-descripcion{
+        font-size: 1.1rem;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .contenedor{
+        padding: 2.5rem;
+    }
+
+    .delivery-titulo{
+        font-size: 3.1875rem;
+    }
+
+    .delivery-descripcion{
+        font-size: 1.1rem;
+    }
+}

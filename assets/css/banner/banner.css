@@ -9,7 +9,7 @@
 }
 
 .banner-titulo {
-    color: white;
+    color: #ff8906;
     position: absolute;
     left: 50%;
     top: 30%;
@@ -17,7 +17,7 @@
     width: 100%;
     transform: translate(-50%, -50%);
     font-family: Pacifico, cursive;
-    font-weight: 400;
+    font-weight:600;
     font-style: normal;
 }
 
@@ -27,7 +27,7 @@
     }
 
     .banner-titulo {
-        font-size: 3rem;
+        font-size: 5rem;
     }
 
 }
