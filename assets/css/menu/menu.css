@@ -4,6 +4,7 @@
     justify-content: space-between;
     padding-left: 2rem;
     padding-right: 2rem;
+    font-family: Pacifico, cursive;
     /* position: fixed;
     width: 95%; */
 }
@@ -17,7 +18,7 @@
     list-style: none;
 }
 .menu-link{
-    color: #808080;
+    color: #fffffe;
     text-decoration: none;
     margin-right: 1.35rem;
     padding: 1rem;
