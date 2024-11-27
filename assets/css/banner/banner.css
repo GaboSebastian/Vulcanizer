@@ -3,7 +3,7 @@
 }
 
 .banner-imagen {
-    background: url('../../img/banner.jpg') no-repeat center / cover;
+    background: url('../../img/banner.png') no-repeat center / cover;
     width: 100%;
     /*filter: opacity(4);*/
 }
@@ -16,7 +16,7 @@
     text-align: center;
     width: 100%;
     transform: translate(-50%, -50%);
-    font-family: "Bungee Spice", sans-serif;
+    font-family: Pacifico, cursive;
     font-weight: 400;
     font-style: normal;
 
