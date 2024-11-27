@@ -1,42 +1,42 @@
-.sobre{
+.sobre, .mapa{
     text-align: center;
 }
 
-.sobre-titulo{
+.sobre-titulo, .mapa-titulo{
     color: #DA2B1F;
     font-family: Pacifico, cursive;
     font-weight: 400;
 }
 
-.sobre-descripcion{
+.sobre-descripcion, .mapa-descripcion{
     color:#a7a9be;
     font-weight: 100;
 }
 
 @media screen and (min-width: 0){
-    .sobre{
+    .sobre, .mapa{
         padding: 2.5rem 1rem;
     }
 
-    .sobre--titulo{
+    .sobre--titulo, .mapa-titulo{
         font-size: 2rem;
     }
 
-    .sobre-descripcion{
+    .sobre-descripcion, .mapa-descripcion{
         font-size: 1.3rem;
     }
 }
 
 @media screen and (min-width: 768px){
-    .sobre{
+    .sobre, .mapa{
         padding: 2.5rem;
     }
 
-    .sobre-titulo{
+    .sobre-titulo, .mapa-titulo{
         font-size: 3.1875rem;
     }
 
-    .sobre-descripcion{
+    .sobre-descripcion, .mapa-descripcion{
         font-size: 1.75rem;
     }
 }
