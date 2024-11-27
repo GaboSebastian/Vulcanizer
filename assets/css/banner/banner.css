@@ -5,7 +5,7 @@
 .banner-imagen {
     background: url('../../img/banner.png') no-repeat center / cover;
     width: 100%;
-    /*filter: opacity(4);*/
+
 }
 
 .banner-titulo {
